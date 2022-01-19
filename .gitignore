@@ -9,6 +9,3 @@ node_modules/
 cloudinary_python.txt
 *.sqlite3
 deps.txt
-asgi.py
-settings.py
-wsgi.py
